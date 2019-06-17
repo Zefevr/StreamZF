@@ -32,7 +32,7 @@ _______________________________________________________________________________
 2. CRUD:
  
     Logged in users can edit / create / delete their streams.
-    Not logged users can only see the list of streams and watch them
+    Not logged users can only see (Get) the list of streams and watch them
 
 3. Streaming:
   
