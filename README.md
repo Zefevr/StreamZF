@@ -54,7 +54,7 @@ _______________________________________________________________________________
  
     In settings / stream:
       * Set URL : rtmp://localhost/live
-      *Set Key : "ID of the stream you created in you the app"
+      * Set Key : "ID of the stream you created in you the app"
   
   
 
