@@ -54,7 +54,7 @@ _______________________________________________________________________________
  
     In settings / stream:
       * Set URL : rtmp://localhost/live
-      * Set Key : "ID of the stream you created in you the app"
+      * Set Key : "ID of the stream you created in you the app". If you do not know which ID has your stream, you can see it in [server/db.json](https://github.com/Zefevr/StreamZF/blob/master/server/db.json). Remember that the stream must have been created by you.
   
   
 
