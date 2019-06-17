@@ -27,7 +27,7 @@ _______________________________________________________________________________
 
 1. OAuth:
   
-  Ability to login using google authentication.
+ >>> Ability to login using google authentication.
 
 2. CRUD:
  
