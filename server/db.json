@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "6th",
+      "description": "Refactor Creating a stream",
+      "userId": "100472361131454878436",
+      "id": 6
+    },
+    {
+      "title": "8th",
+      "description": "RESTful api",
+      "userId": "100472361131454878436",
+      "id": 8
+    },
+    {
+      "title": "9th ",
+      "description": "Redux forms",
+      "userId": "100472361131454878436",
+      "id": 9
+    }
+  ]
+}

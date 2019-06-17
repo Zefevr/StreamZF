@@ -1,0 +1,14 @@
+{
+    "name": "stream-zf",
+    "scripts": {
+      "postinstall": "(cd client && npm i) && (cd server && npm i) && (cd rtmpserver && npm i) && npm run build",
+      "build": "(cd client && npm run build) && (cd server && npm run build) && (cd rtmpserver && npm run build)",
+      "start": "(cd client && npm start) && (cd server && npm start) && (cd rtmpserver && npm start)",
+      "test": "echo 'tests passed!'"
+    },
+    "cacheDirectories": [
+      "server/node_modules",
+      "client/node_modules",
+      "rtmpserver/node_modules"
+    ]
+  }
