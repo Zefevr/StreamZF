@@ -27,16 +27,16 @@ _______________________________________________________________________________
 
 1. OAuth:
   
- Ability to login using google authentication.
+    Ability to login using google authentication.
 
 2. CRUD:
  
-  Logged in users can edit / create / delete their streams.
-  Not logged users can only see the list of streams and watch them
+    Logged in users can edit / create / delete their streams.
+    Not logged users can only see the list of streams and watch them
 
 3. Streaming:
   
-  Using an OBS program to stream and connected to the application by rtmpserver.
+    Using an OBS program to stream and connected to the application by rtmpserver.
 
 _______________________________________________________________________________
 
