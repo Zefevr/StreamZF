@@ -46,7 +46,7 @@ _______________________________________________________________________________
 
     [here](https://developers.google.com/fit/android/get-api-key) it explains how to get a client-id for google OAuth.
   
-    After cloning the repository, you can replace this client-id and put it in [client/src/components/GoogleAuth.js]  (https://github.com/Zefevr/StreamZF/blob/master/client/src/components/GoogleAuth.js)
+    After cloning the repository, you can replace this client-id and put it in [client/src/components/GoogleAuth.js](https://github.com/Zefevr/StreamZF/blob/master/client/src/components/GoogleAuth.js)
   
 2. Install OBS:
 
