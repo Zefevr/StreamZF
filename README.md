@@ -27,7 +27,7 @@ _______________________________________________________________________________
 
 1. OAuth:
   
- >>> Ability to login using google authentication.
+ Ability to login using google authentication.
 
 2. CRUD:
  
@@ -53,8 +53,8 @@ _______________________________________________________________________________
  > You will need to have an OBS streaming program, you can get it [here](https://obsproject.com).
  
  > In settings / stream:
-  >> Set URL : rtmp://localhost/live
-  >> Set Key : "ID of the stream you created in you the app"
+   Set URL : rtmp://localhost/live
+   Set Key : "ID of the stream you created in you the app"
   
   
 
